@@ -6,6 +6,6 @@ public class Class2 {
 @Test
 public void print()
 {
-System.out.println("Class2");	
+System.out.println("Class2 ");	
 }
 }
